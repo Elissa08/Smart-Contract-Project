@@ -1,3 +1,8 @@
 # Smart-Contract-Project
 
-#DESCRIPTION
+
+DESCRIPTION
+
+
+
+Getting Started
