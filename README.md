@@ -4,7 +4,7 @@ This program is for creating a smart contract project that implements the requir
 
 ## Description
 
-Avalanche is an object-oriented programming language that operates smart contracts. These contracts oversee the conduct of Ethereum state accounts. The contract includes a feature that generates and terminates the token value of the contract. This software functions as an uncomplicated introduction to Solidity programming and can serve as a foundation for more intricate undertakings later on.
+Avalanche 
 
 ## Getting Started
 
@@ -17,10 +17,10 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity 0.8.13;
 
-contract Smart_Contract_Project {
+    contract Smart_Contract_Project {
     address public Elissa;
     uint public amount;
-
+    
     constructor() {
         Elissa = msg.sender;
         amount = 200;
@@ -45,14 +45,6 @@ contract Smart_Contract_Project {
         payable(msg.sender).transfer(_amount);
     }
 }
-
-
-
-
-
-
-
-
 
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.13" (or another compatible version), and then click on the "Compile + name of file(.sol)" button.
