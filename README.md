@@ -4,7 +4,7 @@ This program is for creating a smart contract project that implements the requir
 
 ## Description
 
-Avalanche 
+Avalanche is a blockchain platform that provides decentralized apps and blockchain networks. Avalanche is designed to address the scalability issues that have conventional blockchain systems. The platform offers exceptional transaction speed and finality in milliseconds because of the consensus protocol, Avalanche. The adaptable architecture of Avalanche complements this scalability by enabling developers to design customized blockchain networks, or subnets, that satisfy particular needs and use cases. 
 
 ## Getting Started
 
